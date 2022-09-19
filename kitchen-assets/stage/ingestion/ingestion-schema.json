@@ -7,10 +7,6 @@
       {
          "language":"Python",
          "edition":"four"
-      },
-      {
-         "language":"SQL",
-         "edition":"second"
       }
    ]
 }
