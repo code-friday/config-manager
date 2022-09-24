@@ -20,6 +20,10 @@
     {
       "filePath": "ingestion/ingestion-schema.json",
       "blobPath": "dip-config/kitchen-asset/dev/ingestion"
+    },
+    {
+      "filePath": "ingestion/ingestion-schema1.json",
+      "blobPath": "dip-config/kitchen-asset/dev/ingestion"
     }
   ]
 }
