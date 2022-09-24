@@ -14,6 +14,10 @@
       "blobPath": "dip-config/kitchen-asset/dev/enrichment"
     },
     {
+      "filePath": "enrichment/kitchenasset_enrich_config_dev.yaml",
+      "blobPath": "dip-config/kitchen-asset/dev/enrichment"
+    },
+    {
       "filePath": "ingestion/ingestion-output.json",
       "blobPath": "dip-config/kitchen-asset/dev/ingestion"
     },
