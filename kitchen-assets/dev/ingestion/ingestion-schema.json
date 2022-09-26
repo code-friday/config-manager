@@ -1,7 +1,7 @@
 {
    "eBooks":[
       {
-         "language":"Pascal234",
+         "language":"Pascal",
          "edition":"third"
       },
       {
@@ -9,8 +9,8 @@
          "edition":"four"
       },
       {
-         "language":"SQL1",
+         "language":"SQL",
          "edition":"second"
       }
    ]
-}
+}ss
