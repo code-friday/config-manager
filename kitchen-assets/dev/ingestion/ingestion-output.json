@@ -11,6 +11,10 @@
       {
          "language":"SQL1",
          "edition":"second"
+      },
+      {
+         "language":"SeweQL",
+         "edition":"second"
       }
    ]
 }
