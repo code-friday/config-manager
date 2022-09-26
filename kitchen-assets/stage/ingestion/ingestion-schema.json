@@ -1,16 +1,12 @@
 {
    "eBooks":[
       {
-         "language":"Pascal234",
+         "language":"Pascal11",
          "edition":"third"
       },
       {
          "language":"Python",
          "edition":"four"
-      },
-      {
-         "language":"SQL1",
-         "edition":"second"
       }
    ]
 }
