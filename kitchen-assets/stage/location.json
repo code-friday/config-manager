@@ -26,7 +26,7 @@
       "blobPath": "dip-config/kitchen-asset/stage/ingestion"
     },
     {
-      "filePath": "ingestion/ingestion-schema1.json",
+      "filePath": "ingestion/ingestion-schema2.json",
       "blobPath": "dip-config/kitchen-asset/stage/ingestion"
     }
   ]
